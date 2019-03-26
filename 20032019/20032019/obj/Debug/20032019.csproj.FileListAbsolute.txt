@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\20032019\20032019\bin\Debug\20032019.exe.config
+C:\Users\rosla\source\repos\20032019\20032019\bin\Debug\20032019.exe
+C:\Users\rosla\source\repos\20032019\20032019\bin\Debug\20032019.pdb
+C:\Users\rosla\source\repos\20032019\20032019\obj\Debug\20032019.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\20032019\20032019\obj\Debug\20032019.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\20032019\20032019\obj\Debug\20032019.exe
+C:\Users\rosla\source\repos\20032019\20032019\obj\Debug\20032019.pdb
